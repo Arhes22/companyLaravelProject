@@ -1,0 +1,20 @@
+html{
+
+    padding:1em;
+    background: url('/images/background/acceuil_loc.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+
+
+.background_loc{
+    padding:1em;
+    background: url('/images/background/bg_loc.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
